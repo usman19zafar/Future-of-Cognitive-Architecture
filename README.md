@@ -1,4 +1,4 @@
-Cognitive Architecture Framework (CAF): The Missing Layer in AI Governance
+Cognitive Architecture Framework (CAF): The Missing Layer in AI Governance.
 
 AI is no longer a tool — it’s becoming a cognitive layer inside organizations.  
 It interprets information, reasons about context, interacts with humans, and makes decisions that influence real outcomes.
